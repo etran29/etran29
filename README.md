@@ -1,4 +1,6 @@
-## Hi there 👋 I'm Elisa, a Software Engineering Student as MMU! 
+## About Elisa... 🎀
+I am a Software Engineering Student at MMU! 
+
 
 <!--
 **etran29/etran29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
