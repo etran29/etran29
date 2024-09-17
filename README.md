@@ -1,4 +1,4 @@
-## About Elisa... 🎀
+## 🎀 About Elisa
 I am a Software Engineering Student at MMU! 
 
 
