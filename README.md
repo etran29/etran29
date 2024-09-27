@@ -1,5 +1,5 @@
 ## 🎀 About Elisa
-I am a Software Engineering Student at MMU! 
+I am a 2nd Year Software Engineering Student at MMU! 
 
 
 <!--
